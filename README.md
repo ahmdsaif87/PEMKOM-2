@@ -1,4 +1,4 @@
-# 📌 Repository Tugas Pemrograman Komputer 2 (Pemkom 2)
+# 📌 Repository Tugas Pemrograman Komputer 2
 
 Repository ini berisi tugas-tugas untuk mata kuliah **Pemrograman Komputer 2 (Pemkom 2)**.  
 Setiap tugas dipisahkan dalam **branch berbeda** sebagai berikut:
