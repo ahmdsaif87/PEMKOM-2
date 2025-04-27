@@ -10,3 +10,4 @@ Setiap tugas dipisahkan dalam **branch berbeda** sebagai berikut:
 | 2  | Tugas Pertemuan 2 | `tugas2` |
 | 3  | Tugas Pertemuan 3 | `tugas3` |
 | 4  | Tugas Pertemuan 4 | `book-management` |
+| 5  | Tugas Pertemuan 5 | `socket-programming` |
