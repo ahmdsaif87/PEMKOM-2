@@ -11,3 +11,4 @@ Setiap tugas dipisahkan dalam **branch berbeda** sebagai berikut:
 | 3  | Tugas Pertemuan 3 | `tugas3` |
 | 4  | Tugas Pertemuan 4 | `book-management` |
 | 5  | Tugas Pertemuan 5 | `socket-programming` |
+| 6  | Tugas Pertemuan 6 dan 7 | `CRUD-MongoDB` |
