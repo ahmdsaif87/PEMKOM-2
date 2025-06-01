@@ -12,4 +12,5 @@ Setiap tugas dipisahkan dalam **branch berbeda** sebagai berikut:
 | 4  | Tugas Pertemuan 4 | `book-management` |
 | 5  | Tugas Pertemuan 5 | `socket-programming` |
 | 6  | Tugas Pertemuan 6 dan 7 | `CRUD-MongoDB` |
-| 6  | Tugas Pertemuan 8 | `media-player` |
+| 7  | Tugas Pertemuan 8 | `media-player` |
+| 8  | Tugas Pertemuan 9 | `internationalization` |
